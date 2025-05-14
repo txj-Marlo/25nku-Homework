@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/backgrouds">
+        <file>img/grayBackground.png</file>
+        <file>img/GameoverBackground.png</file>
+        <file>img/Gameroom.png</file>
+        <file>img/gamewinBackground.png</file>
+        <file>img/gameover.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>img/pausebtn.png</file>
+        <file>img/cursor.png</file>
+        <file>img/windowicon.png</file>
+        <file>img/OIP-C.jpg</file>
+        <file>img/Mybullet.png</file>
+        <file>img/expheart.png</file>
+        <file>img/exheart1.png</file>
+        <file>img/Gameroom.png</file>
+        <file>img/blood.png</file>
+        <file>img/Bulletshit.png</file>
+    </qresource>
+    <qresource prefix="/roles">
+        <file>img/roles/enemy1.png</file>
+        <file>img/roles/enemy1-mir.png</file>
+        <file>img/roles/Issac1.png</file>
+        <file>img/roles/Issac2.png</file>
+        <file>img/roles/Issac3.png</file>
+        <file>img/roles/enemy2.png</file>
+        <file>img/roles/enemy2-mir.png</file>
+        <file>img/roles/enemy3.png</file>
+        <file>img/roles/enemy3-mir.png</file>
+        <file>img/roles/enemy4.png</file>
+        <file>img/roles/enemy4-mir.png</file>
+        <file>img/roles/Issac1-invincible.png</file>
+        <file>img/roles/Issac2-invincible.png</file>
+        <file>img/roles/Issac3-invincible.png</file>
+    </qresource>
+    <qresource prefix="/item">
+        <file>img/items/item0.png</file>
+        <file>img/items/item1.png</file>
+        <file>img/items/item2.png</file>
+        <file>img/items/item3.png</file>
+        <file>img/items/item4.png</file>
+        <file>img/items/item5.png</file>
+        <file>img/items/item6.png</file>
+        <file>img/items/item7.png</file>
+        <file>img/items/item8.png</file>
+        <file>img/items/item9.png</file>
+        <file>img/items/item10.png</file>
+        <file>img/items/item11.png</file>
+        <file>img/items/item12.png</file>
+        <file>img/items/item13.png</file>
+        <file>img/items/item14.png</file>
+        <file>img/items/item15.png</file>
+        <file>img/items/item16.png</file>
+        <file>img/items/item17.png</file>
+        <file>img/items/item18.png</file>
+        <file>img/items/item19.png</file>
+        <file>img/items/item20.png</file>
+        <file>img/items/item21.png</file>
+        <file>img/items/item22.png</file>
+        <file>img/items/item23.png</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>img/ui/backBtn.png</file>
+        <file>img/ui/checkRecordBtn.png</file>
+        <file>img/ui/onceMoreBtn.png</file>
+        <file>img/ui/startBtn.png</file>
+        <file>img/ui/loseText.png</file>
+        <file>img/ui/exitBtn.png</file>
+        <file>img/ui/continueBtn.png</file>
+        <file>img/ui/winText.png</file>
+        <file>img/ui/details.png</file>
+        <file>img/ui/detailBtn.png</file>
+        <file>img/ui/Attributes.png</file>
+        <file>img/ui/backbtn.jpg</file>
+        <file>img/ui/continuebtn.jpg</file>
+        <file>img/ui/detailsbtn.jpg</file>
+        <file>img/ui/exitbtn.jpg</file>
+        <file>img/ui/lost.jpg</file>
+        <file>img/ui/recordsbtn.jpg</file>
+        <file>img/ui/startbtn.jpg</file>
+        <file>img/ui/won.jpg</file>
+        <file>img/ui/detailsBtn.png</file>
+    </qresource>
+</RCC>
